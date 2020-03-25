@@ -23,10 +23,14 @@ $secondary-color: #ff652f;
   @media screen and (min-width: 728px) {
     @content;
   }
+}
+
 @mixin media-lg {
   @media screen and (min-width: 1024px) {
     @content;
   }
+}
+
 @mixin media-xl {
   @media screen and (min-width: 1600px) {
     @content;
