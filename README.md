@@ -1,2 +1,2 @@
 # portfolio
-Simple portfolio I created as I learned sass/scss
+Simple Portfolio that I created while following the tutorial learn SASS/SCSS.
